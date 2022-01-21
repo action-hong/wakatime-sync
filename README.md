@@ -49,7 +49,9 @@ If you are interest in it, take a issue or PR.
 
 ## How can I use this data
 
-You can use this data in Wakatime Dashboard(http://wakatime.chenhuichao.com).
+
+
+You can use this data in Wakatime Dashboard(http://wakatime.chenhuichao.com) or (http://toy.kkopite.cn/wakatime/).
 
 You input the Gist ID, then you can see the report.
 
